@@ -21,7 +21,10 @@
 - 📫 How to reach me: [rahul1038402@gmail.com](mailto:rahul1038402@gmail.com)
 - ⚡ Fun fact: I love solving algorithm problems on LeetCode!
 
----
+<!-- Animated Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
 ### 🛠️ Languages & Tools
 
@@ -29,7 +32,10 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,python,flask,git,vscode,figma" />
 </p>
 
----
+<!-- Animated Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
 ### 📈 GitHub Stats
 
@@ -45,7 +51,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul1038402&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
+<!-- Animated Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
 ### 🔥 GitHub Activity Graph
 
@@ -53,7 +62,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahul1038402&theme=rogue" alt="Activity Graph" />
 </p>
 
----
+<!-- Animated Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
 ### 🌐 Connect with Me
 
@@ -62,4 +74,7 @@
   <a href="https://github.com/Rahul1038402"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&style=for-the-badge&logoColor=white"/></a>
 </p>
 
----
+<!-- Animated Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
