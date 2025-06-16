@@ -11,7 +11,8 @@
 
 ### 🧠 About Me
 
-- 🌱 I’m learning **React, Flask, and Data Structures**
+- 🚀 I have decent experience with **React, Tailwind and Flask** and have some projects related on them
+- 🌱 I’m learning **AI/ML and Data Structures**
 - 🧑‍💻 All of my projects are available at [My GitHub](https://github.com/rahul1038402)
 - 💬 Ask me about **Frontend Dev, DSA, or AI/ML**
 - 📫 How to reach me: [rahul1038402@gmail.com](mailto:rahul1038402@gmail.com)
