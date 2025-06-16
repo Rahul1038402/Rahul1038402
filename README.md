@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Rahul Mall</h1>
-<h3 align="center">🚀 Passionate Developer | 📚 GATE CSE Aspirant | 💻 Tech Enthusiast</h3>
+<h3 align="center">🚀 Passionate Developer | 🌐 AI/ML | 💻 Tech Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rahul1038402&label=Profile%20views&color=0e75b6&style=flat" alt="rahul1038402" />
@@ -11,11 +11,10 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m currently working on **JobSwipe (Smart Job Filter & Resume Analyzer)**
 - 🌱 I’m learning **React, Flask, and Data Structures**
 - 🧑‍💻 All of my projects are available at [My GitHub](https://github.com/rahul1038402)
-- 💬 Ask me about **Frontend Dev, Python, or GATE CSE topics**
-- 📫 How to reach me: [rahulmall.dev@gmail.com](mailto:rahulmall.dev@gmail.com)
+- 💬 Ask me about **Frontend Dev, DSA, or AI/ML**
+- 📫 How to reach me: [rahul1038402@gmail.com](mailto:rahul1038402@gmail.com)
 - ⚡ Fun fact: I love solving algorithm problems on LeetCode!
 
 ---
@@ -60,5 +59,3 @@
 </p>
 
 ---
-
-> 📝 *Generated with ❤️ by [ChatGPT](https://openai.com) and customized by Rahul*
