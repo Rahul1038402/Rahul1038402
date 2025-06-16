@@ -1,16 +1,64 @@
-## Hi there 👋
+<!-- GitHub Profile README -->
 
-<!--
-**Rahul1038402/Rahul1038402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Rahul Mall</h1>
+<h3 align="center">🚀 Passionate Developer | 📚 GATE CSE Aspirant | 💻 Tech Enthusiast</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rahul1038402&label=Profile%20views&color=0e75b6&style=flat" alt="rahul1038402" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 About Me
+
+- 🔭 I’m currently working on **JobSwipe (Smart Job Filter & Resume Analyzer)**
+- 🌱 I’m learning **React, Flask, and Data Structures**
+- 🧑‍💻 All of my projects are available at [My GitHub](https://github.com/rahul1038402)
+- 💬 Ask me about **Frontend Dev, Python, or GATE CSE topics**
+- 📫 How to reach me: [rahulmall.dev@gmail.com](mailto:rahulmall.dev@gmail.com)
+- ⚡ Fun fact: I love solving algorithm problems on LeetCode!
+
+---
+
+### 🛠️ Languages & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,python,flask,git,vscode,figma" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahul1038402&show_icons=true&theme=radical&count_private=true" alt="Rahul's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul1038402&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul1038402&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🔥 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahul1038402&theme=rogue" alt="Activity Graph" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/rahul1038402"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white"/></a>
+  <a href="https://github.com/rahul1038402"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&style=for-the-badge&logoColor=white"/></a>
+</p>
+
+---
+
+> 📝 *Generated with ❤️ by [ChatGPT](https://openai.com) and customized by Rahul*
