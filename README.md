@@ -54,8 +54,8 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="[https://linkedin.com/in/rahul1038402](https://www.linkedin.com/in/rahul-malll-85989327b/)"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white"/></a>
-  <a href="[https://github.com/rahul1038402](https://github.com/Rahul1038402/Rahul1038402)"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&style=for-the-badge&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/rahul-malll-85989327b/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white"/></a>
+  <a href="https://github.com/Rahul1038402"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&style=for-the-badge&logoColor=white"/></a>
 </p>
 
 ---
