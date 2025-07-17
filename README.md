@@ -15,25 +15,19 @@
 <table width="100%">
   <tr>
     <td valign="top" width="50%">
-      <div align="left">
-        ### 🧠 About Me
-
-        - 🚀 Experience in building web apps using **React, Typescript, Tailwind and Flask**
-        - 🌱 Learning **AI/ML and Data Structures**
-        - 🧑‍💻 View [My Portfolio](https://portfolio-website-eight-plum.vercel.app/)
-        - 📫 How to reach me: [rahul1038402@gmail.com](mailto:rahul1038402@gmail.com)
-      </div>
+      <h3>🧠 About Me</h3>
+      <ul>
+        <li>🚀 Experience in building web apps using <strong>React, Typescript, Tailwind and Flask</strong></li>
+        <li>🌱 Learning <strong>AI/ML and Data Structures</strong></li>
+        <li>🧑‍💻 View <a href="https://portfolio-website-eight-plum.vercel.app/">My Portfolio</a></li>
+        <li>📫 How to reach me: <a href="mailto:rahul1038402@gmail.com">rahul1038402@gmail.com</a></li>
+      </ul>
     </td>
-    <td valign="top" width="50%">
-      <!-- Animated Divider / GIF -->
-      <div align="center">
-        <img src="assets/divider.gif" width="80%" alt="Animated Divider" />
-      </div>
+    <td valign="top" width="50%" align="center">
+      <img src="assets/divider.gif" width="80%" alt="Animated Divider" />
     </td>
   </tr>
 </table>
-
-
 
 ### 🛠️ Languages & Tools
 
