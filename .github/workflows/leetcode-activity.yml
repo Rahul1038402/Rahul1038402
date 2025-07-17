@@ -3,7 +3,7 @@ name: Update Leetcode Activity Graph
 on:
   schedule:
     - cron: "0 * * * *"  # every hour
-  workflow_dispatch:     # allows manual trigger
+  workflow_dispatch:
 
 jobs:
   update-readme:
