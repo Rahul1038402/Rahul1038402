@@ -1,9 +1,6 @@
 <!-- GitHub Profile README -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&width=600&height=50&lines=Welcome+to+my+profile;+enjoy+your+stay…" alt="typing divider"/>
-</p>
-
+<h1 align="center">Hi 👋, I'm Rahul Mall</h1>
 <h3 align="center">🚀 Passionate Developer | 🌐 AI/ML | 💻 Tech Enthusiast</h3>
 
 <p align="center">
@@ -12,24 +9,23 @@
 
 ---
 
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      
+  ### 🧠 About Me
 
-  <div align="left" style="flex: 1; min-width: 250px;">
-    <h3>🧠 About Me</h3>
-    <ul>
-      <li>🚀 Experience in building web apps using <strong>React, Typescript, Tailwind and Flask</strong></li>
-      <li>🌱 Learning <strong>AI/ML and Data Structures</strong></li>
-      <li>🧑‍💻 <a href="https://portfolio-website-eight-plum.vercel.app/">View My Portfolio</a></li>
-      <li>📫 Reach me: <a href="mailto:rahul1038402@gmail.com">rahul1038402@gmail.com</a></li>
-    </ul>
-  </div>
+  - 🚀 Experience in building web apps using **React, Typescript, Tailwind and Flask**
+  - 🌱 Learning **AI/ML and Data Structures**
+  - 🧑‍💻 [View My Portfolio](https://portfolio-website-eight-plum.vercel.app/)
+  - 📫 Reach me: [rahul1038402@gmail.com](mailto:rahul1038402@gmail.com)
 
-  <div align="right" style="flex: 1; min-width: 250px;">
-    <img src="assets/animated.gif" alt="Animated GIF" width="35%" height="35%" />
-  </div>
-
-</div>
-
+    </td>
+    <td valign="top" width="40%">
+      <img src="assets/divider.gif" alt="GIF" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ### 🛠️ Languages & Tools
 
