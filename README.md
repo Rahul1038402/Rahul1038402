@@ -35,7 +35,7 @@
 <p>
   <h2>Backend</h2>
   <img src="https://skillicons.dev/icons?i=python,flask" />
-  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" height="32"/>
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" height="32" alt="FastAPI"/>
 </p>
 
 <!-- Tools -->
@@ -44,11 +44,13 @@
   <img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,vercel" />
 </p>
 
-<!-- Machine Learning & AI -->
+<!-- Machine Learning / AI -->
 <p>
   <h2>ML / AI</h2>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="30" alt="scikit-learn"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" height="30" alt="Keras"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="30" alt="NumPy"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="30" alt="Pandas"/>
 </p>
 
 <!-- Animated Divider -->
