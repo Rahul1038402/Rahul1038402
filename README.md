@@ -26,6 +26,17 @@
 ### 🛠️ Languages & Tools
 
 <p>
+  <h2>Frontend</h2>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,python,flask,git,vscode,figma" />
+</p>
+
+<p>
+  <h2>Frontend</h2>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,python,flask,git,vscode,figma" />
+</p>
+
+<p>
+  <h2>Frontend</h2>
   <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,python,flask,git,vscode,figma" />
 </p>
 
