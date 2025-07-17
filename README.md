@@ -72,8 +72,8 @@
 <p align="center">
   <img
     src="https://leetcard.jacoblin.cool/rahul1038402?theme=dark&ext=heatmap"
-    width="75%"
-    height="75%"
+    width="60%"
+    height="60%"
     alt="LeetCode Stats Heatmap"
 />
 </p>
