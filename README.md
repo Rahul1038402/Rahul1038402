@@ -25,19 +25,30 @@
 
 ### 🛠️ Languages & Tools
 
+<!-- Frontend -->
 <p>
   <h2>Frontend</h2>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react" />
 </p>
 
+<!-- Backend -->
 <p>
   <h2>Backend</h2>
-  <img src="https://skillicons.dev/icons?i=python,flask,fastapi" />
+  <img src="https://skillicons.dev/icons?i=python,flask" />
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" height="32"/>
 </p>
 
+<!-- Tools -->
 <p>
   <h2>Tools</h2>
-  <img src="https://skillicons.dev/icons?i=git,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,vercel" />
+</p>
+
+<!-- Machine Learning & AI -->
+<p>
+  <h2>ML / AI</h2>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="30"/>
 </p>
 
 <!-- Animated Divider -->
