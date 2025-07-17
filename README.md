@@ -66,7 +66,7 @@
 
 ## 🧠 LeetCode Stats
 
-<img src="https://leetcard.jacoblin.cool/rahul1038402?theme=dark&ext=heatmap" width="100%">
+<img src="https://leetcard.jacoblin.cool/rahul1038402?theme=dark&ext=heatmap" width="100%" height="75%">
 
 
 ### 🌐 Connect with Me
