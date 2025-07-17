@@ -1,6 +1,9 @@
 <!-- GitHub Profile README -->
 
-<h1 align="center">Hi 👋, I'm Rahul Mall</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&width=600&height=50&lines=Welcome+to+my+profile;+enjoy+your+stay…" alt="typing divider"/>
+</p>
+
 <h3 align="center">🚀 Passionate Developer | 🌐 AI/ML | 💻 Tech Enthusiast</h3>
 
 <p align="center">
@@ -16,10 +19,6 @@
 - 🧑‍💻 View [My Portfolio](https://portfolio-website-eight-plum.vercel.app/)
 - 📫 How to reach me: [rahul1038402@gmail.com](mailto:rahul1038402@gmail.com)
 
-<!-- Animated Divider -->
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" alt="Divider" width="80%" />
-</p>
 
 ### 🛠️ Languages & Tools
 
