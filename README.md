@@ -27,12 +27,12 @@
 
 <p>
   <h2>Frontend</h2>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,python,flask,git,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react" />
 </p>
 
 <p>
-  <h2>Frontend</h2>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,python,flask,git,vscode,figma" />
+  <h2>Backend</h2>
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi" />
 </p>
 
 <p>
