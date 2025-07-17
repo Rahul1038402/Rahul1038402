@@ -25,7 +25,7 @@
   </div>
 
   <div align="right" style="flex: 1; min-width: 250px;">
-    <img src="assets/animated.gif" alt="Animated GIF" width="80%" />
+    <img src="assets/animated.gif" alt="Animated GIF" width="35%" height="35%" />
   </div>
 
 </div>
