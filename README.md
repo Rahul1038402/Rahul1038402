@@ -11,10 +11,8 @@
 
 ### 🧠 About Me
 
-- 🚀 I have decent experience with **React, Tailwind and Flask** and have some projects related to them
-- 🌱 I’m learning **AI/ML and Data Structures**
-- 🧑‍💻 All of my projects are available at [My GitHub](https://github.com/rahul1038402)
-- 💬 Ask me about **Frontend Dev, DSA, or AI/ML**
+- 🚀 Experience in building web apps using **React, Typescript, Tailwind and Flask**
+- 🌱 Learning **AI/ML and Data Structures**
 - 🧑‍💻 View [My Portfolio](https://portfolio-website-eight-plum.vercel.app/)
 - 📫 How to reach me: [rahul1038402@gmail.com](mailto:rahul1038402@gmail.com)
 
