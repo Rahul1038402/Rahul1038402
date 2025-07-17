@@ -68,6 +68,11 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/rahul1038402?theme=nord)
 
+### 📊 LeetCode Submission Activity
+
+<!-- LEETCODE-ACTIVITY:START -->
+<!-- LEETCODE-ACTIVITY:END -->
+
 
 
 ### 🌐 Connect with Me
