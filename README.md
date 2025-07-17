@@ -27,6 +27,11 @@
   </tr>
 </table>
 
+<!-- Animated Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
 ### 🛠️ Languages & Tools
 
 <!-- Frontend -->
@@ -82,15 +87,19 @@
 />
 </p>
 
-
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rahul-malll-85989327b/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white"/></a>
-  <a href="https://github.com/Rahul1038402"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&style=for-the-badge&logoColor=white"/></a>
-</p>
-
 <!-- Animated Divider -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rahul-malll-85989327b/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/ig__rahul70/">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white"/>
+  </a>
+</p>
+
