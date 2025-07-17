@@ -12,22 +12,24 @@
 
 ---
 
-<table width="100%">
-  <tr>
-    <td valign="top" width="50%">
-      <h3>🧠 About Me</h3>
-      <ul>
-        <li>🚀 Experience in building web apps using <strong>React, Typescript, Tailwind and Flask</strong></li>
-        <li>🌱 Learning <strong>AI/ML and Data Structures</strong></li>
-        <li>🧑‍💻 View <a href="https://portfolio-website-eight-plum.vercel.app/">My Portfolio</a></li>
-        <li>📫 How to reach me: <a href="mailto:rahul1038402@gmail.com">rahul1038402@gmail.com</a></li>
-      </ul>
-    </td>
-    <td valign="top" width="50%" align="center">
-      <img src="assets/divider.gif" width="80%" alt="Animated Divider" />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+
+  <div align="left" style="flex: 1; min-width: 250px;">
+    <h3>🧠 About Me</h3>
+    <ul>
+      <li>🚀 Experience in building web apps using <strong>React, Typescript, Tailwind and Flask</strong></li>
+      <li>🌱 Learning <strong>AI/ML and Data Structures</strong></li>
+      <li>🧑‍💻 <a href="https://portfolio-website-eight-plum.vercel.app/">View My Portfolio</a></li>
+      <li>📫 Reach me: <a href="mailto:rahul1038402@gmail.com">rahul1038402@gmail.com</a></li>
+    </ul>
+  </div>
+
+  <div align="right" style="flex: 1; min-width: 250px;">
+    <img src="assets/animated.gif" alt="Animated GIF" width="80%" />
+  </div>
+
+</div>
+
 
 ### 🛠️ Languages & Tools
 
