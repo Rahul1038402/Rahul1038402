@@ -11,7 +11,7 @@
 
 <table>
   <tr>
-    <td valign="top" width="60%">
+    <td valign="top" width="100%">
       
   ### 🧠 About Me
 
@@ -22,7 +22,7 @@
 
     </td>
     <td valign="top" width="40%">
-      <img src="assets/divider.gif" alt="GIF" width="100%" />
+      <img src="assets/animated.gif" alt="GIF" width="100%" />
     </td>
   </tr>
 </table>
