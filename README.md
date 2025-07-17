@@ -36,19 +36,19 @@
 
 <!-- Frontend -->
 <p>
-  <h2>Frontend</h2>
+  <h4>Frontend</h4>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react" />
 </p>
 
 <!-- Backend -->
 <p>
-  <h2>Backend</h2>
+  <h4>Backend</h4>
   <img src="https://skillicons.dev/icons?i=python,flask" />
 </p>
 
 <!-- Tools -->
 <p>
-  <h2>Tools</h2>
+  <h4>Tools</h4>
   <img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,vercel" />
 </p>
 
