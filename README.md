@@ -66,7 +66,7 @@
 
 ### 🧠 LeetCode Stats
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/rahul1038402?theme=solarized)
+![Leetcode Stats](https://leetcard.jacoblin.cool/rahul1038402?theme=nord)
 
 
 
