@@ -12,12 +12,27 @@
 
 ---
 
-### 🧠 About Me
+<table width="100%">
+  <tr>
+    <td valign="top" width="50%">
+      <div align="left">
+        ### 🧠 About Me
 
-- 🚀 Experience in building web apps using **React, Typescript, Tailwind and Flask**
-- 🌱 Learning **AI/ML and Data Structures**
-- 🧑‍💻 View [My Portfolio](https://portfolio-website-eight-plum.vercel.app/)
-- 📫 How to reach me: [rahul1038402@gmail.com](mailto:rahul1038402@gmail.com)
+        - 🚀 Experience in building web apps using **React, Typescript, Tailwind and Flask**
+        - 🌱 Learning **AI/ML and Data Structures**
+        - 🧑‍💻 View [My Portfolio](https://portfolio-website-eight-plum.vercel.app/)
+        - 📫 How to reach me: [rahul1038402@gmail.com](mailto:rahul1038402@gmail.com)
+      </div>
+    </td>
+    <td valign="top" width="50%">
+      <!-- Animated Divider / GIF -->
+      <div align="center">
+        <img src="assets/divider.gif" width="80%" alt="Animated Divider" />
+      </div>
+    </td>
+  </tr>
+</table>
+
 
 
 ### 🛠️ Languages & Tools
