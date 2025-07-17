@@ -15,8 +15,8 @@
 - 🌱 I’m learning **AI/ML and Data Structures**
 - 🧑‍💻 All of my projects are available at [My GitHub](https://github.com/rahul1038402)
 - 💬 Ask me about **Frontend Dev, DSA, or AI/ML**
+- 🧑‍💻 View [My Portfolio Website]([https://github.com/rahul1038402](https://portfolio-website-eight-plum.vercel.app/))
 - 📫 How to reach me: [rahul1038402@gmail.com](mailto:rahul1038402@gmail.com)
-- ⚡ Fun fact: I love solving algorithm problems on LeetCode!
 
 <!-- Animated Divider -->
 <div align="center">
