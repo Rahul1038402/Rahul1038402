@@ -1,10 +1,13 @@
 <!-- GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Rahul Mall</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2CB&center=true&vCenter=true&width=1000&lines=Frontend+Developer+%7C+LeetCode+Enthusiast+%7C+AI/ML" alt="Skills Typing" />
+  <img 
+  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=3000&color=00C2CB&center=true&vCenter=true&width=1000&lines=Frontend+Developer+%7C+LeetCode+Enthusiast+%7C+AI/ML&height=40" 
+  alt="Typing Animation"
+/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahul1038402&label=Profile%20views&color=0e75b6&style=flat" alt="rahul1038402" />
+  <img src="https://img.shields.io/badge/Profile%20Views-57-cyan" alt="Profile Views" />
 </p>
 
 ---
