@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Rahul Mall</h1>
   <img 
-  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=3000&color=00C2CB&center=true&vCenter=true&width=1000&lines=Frontend+Developer+%7C+LeetCode+Enthusiast+%7C+AI/ML&height=40" 
+  src="https://readme-typing-svg.demolab.com?font=Raleway&size=26&letterSpacing=3px&pause=3000&color=00C2CB&center=true&vCenter=true&width=1000&lines=Frontend+Developer+%7C+AI/ML+%7C+LeetCode+Enthusiast&height=40" 
   alt="Typing Animation"
 />
 
