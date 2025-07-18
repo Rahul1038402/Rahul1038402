@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Rahul Mall</h1>
-<h3 align="center">🚀 Passionate Developer | 🌐 AI/ML | 💻 Tech Enthusiast</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2CB&center=true&vCenter=true&width=1000&lines=Frontend+Developer+%7C+LeetCode+Enthusiast+%7C+AI/ML" alt="Skills Typing" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rahul1038402&label=Profile%20views&color=0e75b6&style=flat" alt="rahul1038402" />
@@ -60,15 +60,15 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahul1038402&show_icons=true&theme=radical&count_private=true" alt="Rahul's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahul1038402&show_icons=true&theme=dark&count_private=true&border_radius=10&custom_title=My%20Open%20Source%20Journey&line_height=30" alt="Rahul's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul1038402&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul1038402&theme=dark&background=90,000000,303030,FFFFFF"" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul1038402&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul1038402&layout=compact&theme=dark&bg_color=101010" alt="Top Languages" />
 </p>
 
 <!-- Animated Divider -->
