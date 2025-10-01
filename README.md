@@ -7,7 +7,7 @@
 />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-108-cyan" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Profile%20Views-108-cyan" alt="Profile Views"/>
 </p>
 
 ---
@@ -52,7 +52,7 @@
 <!-- Tools -->
 <p>
   <h4>Tools</h4>
-  <img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,vercel"/>
 </p>
 
 <!-- Animated Divider -->
@@ -67,7 +67,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul1038402&theme=dark&background=90,000000,303030,FFFFFF"" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul1038402&theme=dark&background=90,000000,303030,FFFFFF"" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
