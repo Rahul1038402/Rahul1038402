@@ -1,6 +1,6 @@
 <!-- GitHub Profile README -->
 
-<h1 align="center">Hi 👋, I'm Rahul Mall</h1>
+<h1 align="center">Hi 👋, I'm Rahul Kumar Mall</h1>
   <img 
   src="https://readme-typing-svg.demolab.com?font=Raleway&size=26&letterSpacing=3px&pause=3000&color=00C2CB&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer+%7C+AI/ML+%7C+LeetCode+Enthusiast&height=40" 
   alt="Typing Animation"
@@ -46,7 +46,13 @@
 <!-- Backend -->
 <p>
   <h4>Backend</h4>
-  <img src="https://skillicons.dev/icons?i=python,flask" />
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,python,flask" />
+</p>
+
+<!-- Database -->
+<p>
+  <h4>Database</h4>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,supabase" />
 </p>
 
 <!-- Tools -->
