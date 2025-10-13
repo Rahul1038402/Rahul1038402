@@ -52,7 +52,7 @@
 <!-- Tools -->
 <p>
   <h4>Tools</h4>
-  <img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,vercel"/>
+  <img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,vercel,docker,aws"/>
 </p>
 
 <!-- Animated Divider -->
