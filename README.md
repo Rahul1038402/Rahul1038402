@@ -18,10 +18,10 @@
       
   ### 🧠 About Me
 
-  - 🚀 Experience in building full stack web apps using **React, Typescript, Tailwind, Flask, Node.js, MongoDB, PostgreSQL, Docker and AWS**
-  - 🌱 Learning **AI/ML and Data Structures**
-  - 🧑‍💻 [View My Portfolio](https://portfolio-website-eight-plum.vercel.app/)
-  - 📫 Reach me: [rahul1038402@gmail.com](mailto:rahul1038402@gmail.com)
+  - Experience in building full stack web apps using **React, Typescript, Tailwind, Flask, Node.js, MongoDB, PostgreSQL, Docker and AWS**
+  - Learning **AI/ML and Data Structures**
+  - [View My Portfolio](https://portfolio-website-eight-plum.vercel.app/)
+  - Reach me: [rahul1038402@gmail.com](mailto:rahul1038402@gmail.com)
 
     </td>
     <td valign="top" width="50%">
