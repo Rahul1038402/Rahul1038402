@@ -19,6 +19,7 @@
   ### 🧠 About Me
 
   - Experience in building full stack web apps using **React, Typescript, Tailwind, Flask, Node.js, MongoDB, PostgreSQL, Docker and AWS**
+  - Developed agentic workflows using **RAG, Langchain, Embedding Models and Vector Database**
   - Learning **AI/ML and Data Structures**
   - [View My Portfolio](https://portfolio-website-eight-plum.vercel.app/)
   - Reach me: [rahul1038402@gmail.com](mailto:rahul1038402@gmail.com)
