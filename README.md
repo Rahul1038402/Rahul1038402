@@ -46,7 +46,7 @@
 <!-- Backend -->
 <p>
   <h4>Backend</h4>
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,python,flask" />
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask" />
 </p>
 
 <!-- Database -->
