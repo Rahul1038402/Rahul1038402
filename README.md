@@ -7,7 +7,7 @@
 />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-460-cyan" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Profile%20Views-481-cyan" alt="Profile Views"/>
 </p>
 
 ---
