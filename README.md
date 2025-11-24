@@ -16,7 +16,7 @@
   <tr>
     <td valign="top" width="50%">
       
-  ### About Me
+  <h2 align="center">About Me</h2>
 
   - Experience in building full stack web apps using **React, Typescript, Tailwind, FastAPI, Flask, Node.js, MongoDB, PostgreSQL, Docker and AWS**
   - Developed agentic workflows using **RAG, Langchain, Embedding Models and Vector Database**
@@ -36,7 +36,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-### Languages & Tools
+<h2 align="center">Languages & Tools</h2>
 
 <!-- Frontend -->
 <p>
@@ -67,7 +67,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-### GitHub Stats
+<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahul1038402&show_icons=true&theme=dark&count_private=true&border_radius=10&custom_title=My%20Open%20Source%20Journey&line_height=30" alt="Rahul's GitHub stats" />
@@ -87,7 +87,7 @@
 </div>
 
 
-### Connect with Me
+<h2 align="center">Connect with Me</h2>
 <p align="center">
   <a href="https://peerlist.io/rkm1234">
     <img src="https://github-readme-badge.peerlist.io/api/rkm1234" alt="Peerlist"/>
