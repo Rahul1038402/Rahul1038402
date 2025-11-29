@@ -14,7 +14,7 @@
       
   <h2 align="center">About Me</h2>
 
-  - 2 years of experience in building full stack web apps using **React, Typescript, Tailwind, FastAPI, Flask, Node.js, MongoDB, PostgreSQL, Docker and AWS**
+  - 2+ years of experience in building full stack web apps using **React, Typescript, Tailwind, FastAPI, Flask, Node.js, MongoDB, PostgreSQL, Docker and AWS**
   - Developed agentic workflows using **RAG, Langchain, Embedding Models and Vector Database**
   - [View My Portfolio](https://portfolio-website-eight-plum.vercel.app/)
   - Reach me: [rahul1038402@gmail.com](mailto:rahul1038402@gmail.com)
@@ -85,17 +85,17 @@
 <h2 align="center">Connect with Me</h2>
 <p align="center">
   <a href="https://peerlist.io/rkm1234">
-    <img src="https://github-readme-badge.peerlist.io/api/rkm1234" alt="Peerlist"/>
+    <img height="50" src="assets/peerlist_logo.svg" alt="Peerlist"/>
   </a>
   <br/>
   <a href="https://www.linkedin.com/in/rahul-malll-85989327b/">
-   <img height="50"  src="assests/linkedin_logo.svg"/>
+   <img height="50"  src="assets/linkedin_logo.svg" alt="Linkedin"/>
   </a>
   <a href="https://www.instagram.com/ig__rahul70/">
-    <img height="50" src="assests/insta_logo.svg"/>
+    <img height="50" src="assets/insta_logo.svg" alt="Instagram"/>
   </a>
       <a href="https://x.com/Rahul_Kr_Mall">
-    <img height='50' src="assests/x_logo.svg"/>
+    <img height='50' src="assets/x_logo.svg"alt="X"/>
   </a>
 </p>
 
