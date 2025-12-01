@@ -31,6 +31,31 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
+<table width="100%">
+  <tr>
+    <td valign="top" width="50%">
+
+  <h2 align="center">Building @ResumeAI</h2>
+
+<p><strong>I've been working on ResumeAI, a web app designed specifically to help college students and freshers who are navigating the job market for the first time.</strong> <a href="https://resume-ai-rework.vercel.app">Try it out</a></p>
+
+<ul>
+  <li><strong>Resume Analysis</strong> – Upload your resume and get personalized, actionable suggestions to improve it</li>
+  <li><strong>AI Resume Builder</strong> – No resume yet? Just enter your details and generate an ATS-friendly resume from scratch</li>
+  <li><strong>Application Tracker</strong> – Keep all your job applications organized in one place</li>
+  <li>Got <strong>100+ users</strong> within 2 weeks 🙂</li>
+</ul>
+
+  </td>
+  </tr>
+</table>
+
+
+<!-- Animated Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
 <h2 align="center">Languages & Tools</h2>
 
 <!-- Frontend -->
