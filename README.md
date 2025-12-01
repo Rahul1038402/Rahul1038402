@@ -37,7 +37,14 @@
 
   <h2 align="center">Building @ResumeAI</h2>
 
-<p><strong>I've been working on ResumeAI, a web app designed specifically to help college students and freshers who are navigating the job market for the first time.</strong> <a href="https://resume-ai-rework.vercel.app">Try it out</a></p>
+<p align="center"><strong>I've been working on ResumeAI, a web app designed specifically to help college students and freshers who are navigating the job market for the first time.</strong></p>
+
+<!-- Clickable Image -->
+<p align="center">
+  <a href="https://resume-ai-rework.vercel.app">
+    <img src="assets/resume_ai.png" alt="ResumeAI Preview" width="600">
+  </a>
+</p>
 
 <ul>
   <li><strong>Resume Analysis</strong> – Upload your resume and get personalized, actionable suggestions to improve it</li>
