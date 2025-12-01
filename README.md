@@ -42,7 +42,7 @@
 <!-- Clickable Image -->
 <p align="center">
   <a href="https://resume-ai-rework.vercel.app">
-    <img src="assets/resume_ai.png" alt="ResumeAI Preview" width="600">
+    <img src="assets/resume_ai.png" alt="ResumeAI Preview" width="1000">
   </a>
 </p>
 
@@ -51,6 +51,7 @@
   <li><strong>AI Resume Builder</strong> – No resume yet? Just enter your details and generate an ATS-friendly resume from scratch</li>
   <li><strong>Application Tracker</strong> – Keep all your job applications organized in one place</li>
   <li>Got <strong>100+ users</strong> within 2 weeks 🙂</li>
+  <li>Currently in Beta Phase, seeking for users feedbacks for improvements</li>
 </ul>
 
   </td>
