@@ -95,25 +95,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-<h2 align="center">GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahul1038402&show_icons=true&theme=dark&count_private=true&border_radius=10&custom_title=My%20Open%20Source%20Journey&line_height=30" alt="Rahul's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul1038402&theme=dark&background=90,000000,303030,FFFFFF"" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul1038402&layout=compact&theme=dark&bg_color=101010" alt="Top Languages" />
-</p>
-
-<!-- Animated Divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
-
 
 <h2 align="center">Connect with Me</h2>
 <p align="center">
