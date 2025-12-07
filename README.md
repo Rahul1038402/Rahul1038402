@@ -51,7 +51,7 @@
   <li><strong>AI Resume Builder</strong> – No resume yet? Just enter your details and generate an ATS-friendly resume from scratch</li>
   <li><strong>Application Tracker</strong> – Keep all your job applications organized in one place</li>
   <li>Got <strong>150+ site visitors</strong> within 8 days 🙂</li>
-  <li>Currently in Beta Phase, seeking for users feedbacks for improvements</li>
+  <li>Currently in <strong>Beta Phase</strong>, seeking for users feedbacks for improvements</li>
 </ul>
 
   </td>
