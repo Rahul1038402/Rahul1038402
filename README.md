@@ -52,6 +52,7 @@
   <li><strong>Application Tracker</strong> – Keep all your job applications organized in one place</li>
   <li>Got <strong>200+ site visitors</strong> within 2 weeks organically 🙂</li>
   <li>Currently in <strong>Beta Phase</strong>, seeking for users feedbacks for improvements</li>
+  <li>Working on merging AI and builder</li>
 </ul>
 
   </td>
