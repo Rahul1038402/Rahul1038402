@@ -35,7 +35,7 @@
   <tr>
     <td valign="top" width="50%">
 
-  <h2 align="center">Building @ResumeAI</h2>
+  <h2 align="center">Building ResumeAI</h2>
 
 <p align="center"><strong>I've been working on ResumeAI, a web app designed specifically to help college students and freshers who are navigating the job market for the first time.</strong></p>
 
