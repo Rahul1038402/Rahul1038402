@@ -52,7 +52,6 @@
   <li><strong>Application Tracker</strong> – Keep all your job applications organized in one place (Working on automating the feature)</li>
   <li>Got <strong>300+ site visitors</strong>🙂</li>
   <li><strong>170+ repo clones</strong></li>
-  <li>Currently in <strong>Beta Phase</strong>, seeking for users feedbacks for improvements</li>
 </ul>
 
   </td>
