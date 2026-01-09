@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Rahul Kumar Mall</h1>
   <img 
-  src="https://readme-typing-svg.demolab.com?font=Raleway&size=26&letterSpacing=3px&pause=5000&color=00C2CB&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer&height=40" 
+  src="https://readme-typing-svg.demolab.com?font=Raleway&size=26&letterSpacing=3px&pause=8000&color=00C2CB&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer+@Hexoforge&height=40" 
   alt="Typing Animation"
 />
 
