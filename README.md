@@ -16,7 +16,7 @@
 
   - ~2 years of experience in building full stack web apps using **React, Typescript, Tailwind, FastAPI, Flask, PostgreSQL, Docker and AWS**
   - Developed agentic workflows using **RAG, Langchain, Embedding Models and Vector Database**
-  - [My Portfolio](https://portfolio-website-eight-plum.vercel.app/)
+  - [My Portfolio](https://portfolio-website-eight-plum.vercel.app)
   - Reach me: [rahul1038402@gmail.com](mailto:rahul1038402@gmail.com)
 
     </td>
