@@ -12,7 +12,7 @@
   <tr>
     <td valign="top" width="50%">
       
-  <h2 align="center">About Me</h2>
+  <h2 align="center">About e</h2>
 
   - 2 years of experience in building full stack web apps using **React, Typescript, Tailwind, FastAPI, Flask, PostgreSQL, Docker and AWS**
   - Developed agentic workflows using **RAG, Langchain, Embedding Models and Vector Database**
