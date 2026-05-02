@@ -112,5 +112,7 @@
     <img height='50' src="assets/x_logo.svg"alt="X"/>
   </a>
 </p>
+---
 
+[![Rahul Mall profile views](https://u8views.com/api/v1/github/profiles/193312988/views/day-week-month-total-count.svg)](https://u8views.com/github/Rahul1038402)
 
