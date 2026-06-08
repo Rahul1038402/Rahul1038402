@@ -41,7 +41,7 @@
 
 <!-- Clickable Image -->
 <p align="center">
-  <a href="https://resume-ai-rework.vercel.app">
+  <a href="https://resumeai.live">
     <img src="assets/resume_ai.png" alt="ResumeAI Preview" width="1000">
   </a>
 </p>
@@ -113,5 +113,8 @@
   </a>
 </p>
 
-[![Rahul Mall profile views](https://u8views.com/api/v1/github/profiles/193312988/views/day-week-month-total-count.svg)](https://u8views.com/github/Rahul1038402)
-
+<p align="center">
+  <a href="https://u8views.com/github/Rahul1038402">
+    <img src="https://u8views.com/api/v1/github/profiles/193312988/views/day-week-month-total-count.svg" alt="Rahul Mall profile views"/>
+  </a>
+</p>
