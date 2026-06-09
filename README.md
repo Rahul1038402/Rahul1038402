@@ -117,4 +117,4 @@
   <a href="https://u8views.com/github/Rahul1038402">
     <img src="https://u8views.com/api/v1/github/profiles/193312988/views/day-week-month-total-count.svg" alt="Rahul Mall profile views"/>
   </a>
-</p>
+</p
