@@ -9,7 +9,7 @@
 ---
 
 <table width="100%">
-  <tr>
+  <tr
     <td valign="top" width="50%">
       
   <h2 align="center">About Me</h2>
